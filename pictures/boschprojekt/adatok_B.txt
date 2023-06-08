@@ -1,0 +1,67 @@
+B1;Jheronimus Bosch;Saint Jerome at Prayer;Oil on Oak;80.0 x 60.7 cm
+B2;Jheronimus Bosch;Hermit Saints Triptych;Oil on Oak;85.4 x 29.2 cm, 85.7 x 60.0 cm, 85.7 x 28.9 cm
+B3;Jheronimus Bosch;The Temptation of Saint Anthony (Nelson-Atkins) (fragment);Oil on Oak;38.6 x 25.1 cm
+B4;Jheronimus Bosch;The Temptation of Saint Anthony (MNAA);Oil on Oak;
+B5;Jheronimus Bosch;Saint John the Baptist;Oil on Oak;48.5 x 40.5 cm
+B6;Jheronimus Bosch;Saint John on Patmos;Oil on Oak;63.0 x 43.2 cm
+B7;Jheronimus Bosch;Saint Christopher;Oil on Oak;113.7 x 71.6 cm
+B8;Jheronimus Bosch;Saint Wilgefortis Triptych;Oil on Oak;105.2 x 27.5 cm, 105.2 x 62.7 cm, 104.7 x 27.9 cm
+B9;Jheronimus Bosch;The Adoration of the Magi (Prado);Oil on Oak;
+B10;Jheronimus Bosch;The Adoration of the Magi (Metropolitan);Oil on Oak;71.1 x 56.5 cm
+B11;Jheronimus Bosch;Ecce Homo (Städel Museum);Oil on Oak;71.4 x 61.0 cm
+B12;Jheronimus Bosch;Christ Carrying the Cross (KHM);Oil on Oak;59.7 x 32.0 cm
+B13;Jheronimus Bosch;Christ Carrying the Cross (Escorial);Oil on Oak;150 x 94 cm
+B14;Jheronimus Bosch;Calvary with Donor;Oil on Oak;74.8 x 61.0 cm
+B15;Jheronimus Bosch;The Last Judgment (Groeningemuseum);Oil on Oak;
+B16;Jheronimus Bosch;Visions of the Hereafter;Oil on Oak;88.5 x 39.8 cm, 88.8 x 39.9 cm, 88.8 x 39.6 cm, 88.8 x 39.6 cm
+B17;Jheronimus Bosch;The Wayfarer;Oil on Oak;71.3 x 70.7 cm
+B18;Jheronimus Bosch;The Ship of Fools;Oil on Oak;58.1 x 32.8 cm
+B19;Jheronimus Bosch;Gluttony and Lust;Oil on Oak;34.9 x 30.6 cm
+B20;Jheronimus Bosch;Death and the Miser;Oil on Oak;93 x 31 cm
+B21;Jheronimus Bosch;The Haywain (Prado);Oil on Oak;
+B22;Jheronimus Bosch;The Garden of Earthly Delights;Oil on Oak;220.0 x 390.0 cm
+B23;Workshop of Jheronimus Bosch;The Flood Panels;Oil on Oak;70.0 x 39.2 cm, 70.5 x 37.4
+B24;Workshop of Jheronimus Bosch;Job Triptych;Oil on Oak;
+B25;Workshop of Jheronimus Bosch;Ecce Homo Triptych;Oil on Oak;
+B26;Workshop of Jheronimus Bosch;The Adoration of the Magi (Philadelphia Museum of Art);Oil on Oak;77.5 x 55.9 cm
+B27;Follower of Jheronimus Bosch;Fragments of an Adoration of the Magi;Oil on Oak;37.5 x 22.5 cm, 36.2 x 21.3 cm
+B28;Follower of Jheronimus Bosch;The Adoration of the Magi (Private Collection);Oil on Oak;70.8 x 55.6 cm
+B29;Follower of Jheronimus Bosch;The Crowning with Thorns (Escorial);Oil on Oak;157.5 × 195.8 cm
+B30;Follower of Jheronimus Bosch;The Crowning with Thorns (Museo Provincial de Bellas Artes);Oil on Oak;152.2 x 85.6 cm, 139.7 x 170.2 cm, 152.4 x 84.5 cm
+B31;Follower of Jheronimus Bosch;Christ Carrying the Cross (MSK);Oil on Oak;76.8 x 83.1 cm
+B32;Follower of Jheronimus Bosch;The Temptation of Saint Anthony (Lanschot);Oil on Oak;60.0 x 52.0 cm
+B33;Follower of Jheronimus Bosch;The Last Judgment (fragment);Oil on Oak;59.6 x 113 cm
+B34;Follower of Jheronimus Bosch;The Conjurer (Musée Municipal);Oil on Oak;53 x 65 cm
+B35;Workshop or follower of Jheronimus Bosch;The Cure of Folly;Oil on Oak;48.8 x 34.6 cm
+B36;Jheronimus Bosch;The Tree-man;Pen and Ink on Paper;27.7 x 21.1 cm
+B37;Jheronimus Bosch;The Owl's nest;Pen and Ink on Paper;14.0 x 19.6 cm
+B38;Jheronimus Bosch;The Wood Has Ears, The Field Has Eyes;Pen and Ink on Paper;20.5 x 13 cm
+B39;Jheronimus Bosch;Two Monsters (recto);Pen and Ink on Paper;16.4 x 11.6 cm
+B40;Jheronimus Bosch;Model Sheet with 'Witches';Pen and Ink on Paper;20.4 x 26.4 cm
+B41;Jheronimus Bosch;Spinster and Old Woman;Pen and Ink on Paper;12.0 x 8.5 cm
+B42;Jheronimus Bosch;The Gathering of the Birds;Pen and Ink on Paper;19.5 x 28.4 cm
+B43;Jheronimus Bosch;Battle of the Birds and Mammals;Pen and Ink on Paper;20.3 x 29 cm
+B44;Jheronimus Bosch;The Temptation of Saint Anthony (Kupferstichkabinett);Pen and Ink on Paper;25.7 x 17.6 cm
+B45;Jheronimus Bosch;Infernal Landscape;Pen and Ink on Paper;25.9 x 19.7 cm
+B46;Follower of Jheronimus Bosch;Burning Ship (ABK);Pen and Ink on Paper;17.5 x 15.4 cm
+B47;Jheronimus Bosch;Man in a basket, old woman with tongs and children;Pen and Ink on Paper;19.2 x 27 cm
+B48;Jheronimus Bosch;The Conjurer (Louvre);Pen and Ink on Paper;27.9 x 20.7 cm
+B49;Jheronimus Bosch;Ten Spectators;Pen and Ink on Paper;12.4 x 12.6 cm
+B50;Jheronimus Bosch;Two Monsters;Pen and Ink on Paper;8.6 x 18.2 cm
+B51;Jheronimus Bosch;Studies of Saint Anthony;Pen and Ink on Paper;20.6 x 26.3 cm
+B52;Jheronimus Bosch;Infernal scene with anvil and monsters;Pen and Ink on Paper;15.6 x 17.6 cm
+B53;Jheronimus Bosch;The Entombment of Christ;Pen and Brush and Ink on Paper;25.2 x 30.4 cm
+B54;Jheronimus Bosch?;Two oriental men;Pen and Ink on Paper;13.8 x 10.8 cm
+B55;Workshop of Jheronimus Bosch;Ship of Fools (drawing);Pen and Brush and Ink on Paper;25.6 x 16.8 cm
+B56;Workshop of Jheronimus Bosch;Death and the Miser (drawing);Pen and Brush and Ink on Paper;25.8 x 15.1 cm
+B57;Workshop of Jheronimus Bosch;Infernal scene with tree-man;Pen and Ink on Paper;19.7 x 27.7 cm
+B58;Lucas Cranach the Elder;Cranach Last Judgment;Oil on Limewood;163 x 58 cm
+B59;Follower of Jheronimus Bosch;The Haywain (Escorial);Oil on Oak;
+B60;Follower of Jheronimus Bosch;Model Sheet With Beggars;Pen and Ink on Paper;28.5 x 20.8 cm
+B61;Follower of Jheronimus Bosch;Monsters;Pen and Ink on Paper;31.1 x 21.2 cm
+B62;Follower of Jheronimus Bosch;Studies of monsters and a donkey;Pen and Ink on Paper;32.1 x 21.1 cm
+B63;Follower of Jheronimus Bosch;Burning Ship (Hermitage);Pen and Ink on Paper;29.4 x 21.8 cm
+B64;Follower of Jheronimus Bosch;Beggars and Cripples;Pen and Ink on Paper;26.4 x 19.8 cm
+B65;Workshop or follower of Jheronimus Bosch;The Seven Deadly Sins and the Four Last Things;Oil on Poplar;130.0 x 150.0 cm
+B66;Jheronimus Bosch and workshop;The Last Judgment (ABK) (interior central);Oil on Oak;164.0 x 127.0 cm
+B67;Jheronimus Bosch;Two men;Pen and Ink on Paper;13.7 x 10.3 cm
